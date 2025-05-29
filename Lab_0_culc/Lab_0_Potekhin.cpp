@@ -1,5 +1,5 @@
 ﻿#include <iostream>
-#include <conio.h> 
+// #include <conio.h> 
 // тест
 void Sum(int& a, int& b) {
 	std::cout << a <<" + " <<b <<" = " << a + b << "\n";
