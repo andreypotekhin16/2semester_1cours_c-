@@ -1,6 +1,8 @@
 # Lab 4: Introduction to Classes in C++
 
-This project focuses on understanding and implementing fundamental concepts of Object-Oriented Programming (OOP) in C++ by creating several distinct classes. Each class encapsulates data and behavior related to a specific entity or concept. All implementations are contained within `main.cpp`.
+This project focuses on understanding and implementing fundamental concepts of Object-Oriented Programming (OOP) in C++ by creating several distinct classes. Each class encapsulates data and behavior related to a specific entity or concept. All implementations are contained within `main.cpp`. 
+
+This code is written for windows, libraries need to be changed on other operating systems.
 
 This lab is part of the "Programming Lab Assignments (2nd Semester, 1st Year)" collection.
 
