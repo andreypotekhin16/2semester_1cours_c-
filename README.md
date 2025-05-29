@@ -22,7 +22,7 @@ Each lab assignment includes:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/andreypotekhin16/2semester_1cours_c-.git
+    git clone https://github.com/andreypotekhin16/2semester_1cours_c-
     ```
 2.  Open the project in your IDE (e.g., Visual Studio or Code::Blocks).
 3.  Compile and run the program, following the instructions in the file for each lab assignment.
