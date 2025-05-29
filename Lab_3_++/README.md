@@ -4,7 +4,7 @@ This project implements two console-based C++ applications:
 1.  A system for registration and authorization of production workers.
 2.  An automated system for managing the maintenance schedule of production equipment.
 
-This lab utilizes a **MySQL database** for all data persistence, including user credentials, employee information, equipment details, and maintenance logs. The following task descriptions, originally written with file operations in mind, have been adapted to reflect the use of a MySQL database.
+This lab utilizes a **MySQL database** for all data persistence, including user credentials, employee information, equipment details, and maintenance logs. This code is written for windows, libraries need to be changed on other operating systems.
 
 This lab is part of the "Programming Lab Assignments (2nd Semester, 1st Year)" collection.
 
